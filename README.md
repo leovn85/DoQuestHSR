@@ -8,7 +8,7 @@ Note: The tool doesn't help you run around the map or do any challenge in story 
 
 ### Installation
 - Download the zip, extract, then run `pip install -r requirements.txt`.
-- Run 'python doQuest.py'
+- Run `python doQuest.py`
 
 ### Usage
 - Press key '[' to stop the program.
