@@ -1,4 +1,4 @@
-# DoQuestHSR
+# DoQuestHSR - Do Quest/Story for Honkai: Star Rail
 A tool to do your story/quest in Honkai: Star Rail
 
 ### Features
