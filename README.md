@@ -1,5 +1,5 @@
 # DoQuestHSR - Do Quest/Story for Honkai: Star Rail
-A tool to do your story/quest in Honkai: Star Rail
+A simple tool to do your story/quest in Honkai: Star Rail
 
 ### Features
 - Read current window title and change it.
