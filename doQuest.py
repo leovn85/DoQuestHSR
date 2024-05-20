@@ -3,7 +3,6 @@ from pywinauto.application import Application
 from time import sleep
 import json
 import os
-import six
 import ctypes
 
 user32 = ctypes.windll.user32
