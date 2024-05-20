@@ -8,7 +8,7 @@ A tool to do your story/quest in Honkai: Star Rail
 Note: The tool doesn't help you run around the map or do any challenge in story quest.
 
 ### Installation
-- Download the zip (in the menu Code -> Download as Zip), extract, then run `pip install -r requirements.txt`.
+- Download the zip (in the menu Code -> Download Zip), extract, then run `pip install -r requirements.txt`.
 - Run `python doQuest.py`
 
 ### Usage
