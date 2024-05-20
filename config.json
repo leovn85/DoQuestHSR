@@ -1,0 +1,9 @@
+{
+	"activeKey" : "=",
+	"skipKey" : " ",
+	"dialogKey" : "1",
+	"exitKey" : "["	,
+	"pauseKey" : ";" ,
+	"delayPressTime": 0.3,
+	"comment": "Support one key only (no combination), and don't use some special key like Alt, Ctrl..."
+}
